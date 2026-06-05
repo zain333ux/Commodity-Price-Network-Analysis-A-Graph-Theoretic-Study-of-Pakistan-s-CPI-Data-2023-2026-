@@ -1,0 +1,49 @@
+Tau,K,Window,Nodes,Edges,PossibleEdges,Density,DensityPercent,IsolatedNodes,ConnectedComponents,TopDegreeItem,TopDegreeScore
+0.3,2,W1,51,820,1275,0.6431,64.31,1,2,Cooked Beef at Average Hotel,0.88
+0.3,2,W2,51,502,1275,0.3937,39.37,4,5,Garlic (Lehsun),0.66
+0.3,2,W3,51,428,1275,0.3357,33.57,5,6,Mutton (Average Quality),0.66
+0.3,4,W1,51,572,1275,0.4486,44.86,2,3,Cooked Daal at Average Hotel,0.72
+0.3,4,W2,51,273,1275,0.2141,21.41,5,6,Pulse Moong (Washed),0.46
+0.3,4,W3,51,182,1275,0.1427,14.27,9,10,Gur (Average Quality),0.34
+0.3,6,W1,51,387,1275,0.3035,30.35,2,3,Gur (Average Quality),0.64
+0.3,6,W2,51,153,1275,0.12,12.0,7,8,Pulse Moong (Washed),0.3
+0.3,6,W3,51,98,1275,0.0769,7.69,14,17,Petrol Super,0.2
+0.3,8,W1,51,224,1275,0.1757,17.57,2,3,Powdered Milk NIDO 390 gm Polybag,0.48
+0.3,8,W2,51,91,1275,0.0714,7.14,12,14,Wheat Flour Bag,0.2
+0.3,8,W3,51,61,1275,0.0478,4.78,16,20,Electricity Charges upto 50 Units,0.16
+0.5,2,W1,51,505,1275,0.3961,39.61,1,2,Rice Basmati Broken (Average Quality),0.68
+0.5,2,W2,51,263,1275,0.2063,20.63,4,5,Beef with Bone (Average Quality),0.4
+0.5,2,W3,51,205,1275,0.1608,16.08,5,6,Firewood Whole,0.4
+0.5,4,W1,51,256,1275,0.2008,20.08,4,5,Cooked Daal at Average Hotel,0.48
+0.5,4,W2,51,111,1275,0.0871,8.71,6,7,Firewood Whole,0.18
+0.5,4,W3,51,65,1275,0.051,5.1,13,16,Potatoes,0.18
+0.5,6,W1,51,116,1275,0.091,9.1,4,6,Pulse Mash (Washed),0.28
+0.5,6,W2,51,48,1275,0.0376,3.76,14,18,Chilies Powder NATIONAL 200 gm Packet,0.1
+0.5,6,W3,51,36,1275,0.0282,2.82,23,28,Sugar Refined,0.14
+0.5,8,W1,51,66,1275,0.0518,5.18,14,16,Pulse Mash (Washed),0.2
+0.5,8,W2,51,25,1275,0.0196,1.96,27,33,Ladies Sandal Bata,0.08
+0.5,8,W3,51,17,1275,0.0133,1.33,31,38,Sugar Refined,0.1
+0.7,2,W1,51,204,1275,0.16,16.0,4,6,Cooked Daal at Average Hotel,0.4
+0.7,2,W2,51,100,1275,0.0784,7.84,7,10,Mutton (Average Quality),0.22
+0.7,2,W3,51,66,1275,0.0518,5.18,9,10,Cooked Beef at Average Hotel,0.14
+0.7,4,W1,51,59,1275,0.0463,4.63,13,16,Mutton (Average Quality),0.16
+0.7,4,W2,51,31,1275,0.0243,2.43,18,27,"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",0.08
+0.7,4,W3,51,14,1275,0.011,1.1,29,38,Petrol Super,0.06
+0.7,6,W1,51,26,1275,0.0204,2.04,21,30,Lawn Printed Gul Ahmed/Al Karam,0.08
+0.7,6,W2,51,17,1275,0.0133,1.33,33,39,Vegetable Ghee DALDA/HABIB 2.5 kg Tin,0.08
+0.7,6,W3,51,9,1275,0.0071,0.71,35,42,Petrol Super,0.04
+0.7,8,W1,51,18,1275,0.0141,1.41,26,36,Gents Sponge Chappal Bata,0.06
+0.7,8,W2,51,10,1275,0.0078,0.78,38,43,Vegetable Ghee DALDA/HABIB or Other Superior Quality 1 kg Pouch,0.08
+0.7,8,W3,51,4,1275,0.0031,0.31,45,47,Petrol Super,0.04
+0.9,2,W1,51,29,1275,0.0227,2.27,29,33,Cooked Beef at Average Hotel,0.12
+0.9,2,W2,51,27,1275,0.0212,2.12,26,31,"Long Cloth 57"" Gul Ahmed/Al Karam",0.14
+0.9,2,W3,51,8,1275,0.0063,0.63,41,44,Cooked Beef at Average Hotel,0.06
+0.9,4,W1,51,10,1275,0.0078,0.78,38,43,Lawn Printed Gul Ahmed/Al Karam,0.06
+0.9,4,W2,51,6,1275,0.0047,0.47,40,45,Vegetable Ghee DALDA/HABIB 2.5 kg Tin,0.04
+0.9,4,W3,51,2,1275,0.0016,0.16,47,49,Curd (Dahi) Loose,0.02
+0.9,6,W1,51,5,1275,0.0039,0.39,44,47,Gents Sponge Chappal Bata,0.04
+0.9,6,W2,51,0,1275,0.0,0.0,51,51,No connected item,0.0
+0.9,6,W3,51,0,1275,0.0,0.0,51,51,No connected item,0.0
+0.9,8,W1,51,1,1275,0.0008,0.08,49,50,Gents Sponge Chappal Bata,0.02
+0.9,8,W2,51,0,1275,0.0,0.0,51,51,No connected item,0.0
+0.9,8,W3,51,0,1275,0.0,0.0,51,51,No connected item,0.0

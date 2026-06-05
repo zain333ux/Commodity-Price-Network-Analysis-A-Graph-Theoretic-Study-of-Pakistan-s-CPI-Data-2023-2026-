@@ -1,0 +1,4 @@
+Window,Nodes,Edges,PossibleEdges,Density,DensityPercent,ConnectedComponents
+W1,51,88,1275,0.069,6.9,12
+W2,51,36,1275,0.0282,2.82,26
+W3,51,18,1275,0.0141,1.41,36

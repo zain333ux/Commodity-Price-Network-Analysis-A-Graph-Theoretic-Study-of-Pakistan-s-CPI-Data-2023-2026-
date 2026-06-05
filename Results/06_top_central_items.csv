@@ -1,0 +1,46 @@
+Window,Metric,Rank,Item,Score
+W1,betweenness,1,Powdered Milk NIDO 390 gm Polybag,0.221567
+W1,betweenness,2,Pulse Mash (Washed),0.154186
+W1,betweenness,3,Pulse Masoor (Washed),0.083832
+W1,betweenness,4,Sufi Washing Soap 250 gm Cake,0.072275
+W1,betweenness,5,Mutton (Average Quality),0.058516
+W1,closeness,1,Powdered Milk NIDO 390 gm Polybag,0.3456
+W1,closeness,2,Cooked Daal at Average Hotel,0.301395
+W1,closeness,3,Pulse Mash (Washed),0.301395
+W1,closeness,4,Gents Sponge Chappal Bata,0.297931
+W1,closeness,5,Ladies Sandal Bata,0.297931
+W1,degree,1,Powdered Milk NIDO 390 gm Polybag,0.2
+W1,degree,2,Gents Sponge Chappal Bata,0.18
+W1,degree,3,Ladies Sandal Bata,0.18
+W1,degree,4,Mutton (Average Quality),0.18
+W1,degree,5,Gents Sandal Bata,0.16
+W2,betweenness,1,Chilies Powder NATIONAL 200 gm Packet,0.012245
+W2,betweenness,2,LPG 11.67 kg Cylinder,0.009796
+W2,betweenness,3,Petrol Super,0.009796
+W2,betweenness,4,Hi-Speed Diesel,0.005714
+W2,betweenness,5,Tomatoes,0.005714
+W2,closeness,1,Vegetable Ghee DALDA/HABIB 2.5 kg Tin,0.12
+W2,closeness,2,"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",0.102857
+W2,closeness,3,Ladies Sandal Bata,0.09
+W2,closeness,4,Mustard Oil (Average Quality),0.09
+W2,closeness,5,Vegetable Ghee DALDA/HABIB or Other Superior Quality 1 kg Pouch,0.09
+W2,degree,1,Vegetable Ghee DALDA/HABIB 2.5 kg Tin,0.12
+W2,degree,2,"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",0.1
+W2,degree,3,Ladies Sandal Bata,0.08
+W2,degree,4,Mustard Oil (Average Quality),0.08
+W2,degree,5,Vegetable Ghee DALDA/HABIB or Other Superior Quality 1 kg Pouch,0.08
+W3,betweenness,1,Sugar Refined,0.00449
+W3,betweenness,2,Petrol Super,0.001224
+W3,betweenness,3,"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",0.000816
+W3,betweenness,4,Pulse Masoor (Washed),0.000816
+W3,betweenness,5,Rice Basmati Broken (Average Quality),0.000816
+W3,closeness,1,Sugar Refined,0.1
+W3,closeness,2,Petrol Super,0.083333
+W3,closeness,3,Gur (Average Quality),0.0625
+W3,closeness,4,Hi-Speed Diesel,0.0625
+W3,closeness,5,Potatoes,0.0625
+W3,degree,1,Sugar Refined,0.1
+W3,degree,2,Petrol Super,0.08
+W3,degree,3,"Cooking Oil DALDA or Other Similar Brand (SN), 5 Litre Tin",0.04
+W3,degree,4,Gur (Average Quality),0.04
+W3,degree,5,Hi-Speed Diesel,0.04
